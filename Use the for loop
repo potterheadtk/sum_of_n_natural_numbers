@@ -1,0 +1,5 @@
+sum=0
+for n in range(int(input("n="))):
+    n=n+1
+    sum=sum+n
+print("Total= " + str(sum))
