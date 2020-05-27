@@ -1,0 +1,5 @@
+n=input("n=")
+n=int(n)
+sum= n*(n+1)/2
+sum=int(sum)
+print("Total= " + str(sum))
